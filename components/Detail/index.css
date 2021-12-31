@@ -11,6 +11,7 @@
 }
 .detail_wrap .detail.contain .img_item {
   background-size: contain !important;
+  overflow: auto;
 }
 .detail_wrap .detail.cover .img_item {
   background-size: cover !important;
